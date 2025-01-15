@@ -5,8 +5,10 @@ repo: status.thombruce.com # The name of this repository
 sites:
   - name: thombruce
     url: https://www.thombruce.com
+    icon: https://www.thombruce.com/favicon.ico
   - name: TNT
     url: https://tnt.thombruce.com
+    icon: https://tnt.thombruce.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
