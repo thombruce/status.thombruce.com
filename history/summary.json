@@ -6,25 +6,23 @@
     "slug": "thombruce",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 156,
     "timeWeek": 177,
     "timeMonth": 470,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2025-06-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TNT",
     "url": "https://tnt.thombruce.com",
     "icon": "https://tnt.thombruce.com/favicon.ico",
     "slug": "tnt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +33,8 @@
     "timeWeek": 166,
     "timeMonth": 2550,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-01": 0
+    }
   }
 ]
