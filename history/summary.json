@@ -4,35 +4,39 @@
     "url": "https://www.thombruce.com",
     "icon": "https://www.thombruce.com/favicon.ico",
     "slug": "thombruce",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 188,
-    "timeWeek": 161,
+    "timeDay": 0,
+    "timeWeek": 142,
     "timeMonth": 162,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-16": 0
+    }
   },
   {
     "name": "TNT",
     "url": "https://tnt.thombruce.com",
     "icon": "https://tnt.thombruce.com/favicon.ico",
     "slug": "tnt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 174,
-    "timeWeek": 166,
-    "timeMonth": 146,
+    "timeDay": 0,
+    "timeWeek": 152,
+    "timeMonth": 148,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-16": 0
+    }
   }
 ]
