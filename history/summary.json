@@ -4,7 +4,7 @@
     "url": "https://www.thombruce.com",
     "icon": "https://www.thombruce.com/favicon.ico",
     "slug": "thombruce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -24,11 +24,11 @@
     "url": "https://tnt.thombruce.com",
     "icon": "https://tnt.thombruce.com/favicon.ico",
     "slug": "tnt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 604,
     "timeDay": 104,
@@ -36,6 +36,7 @@
     "timeMonth": 143,
     "timeYear": 604,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-07-16": 15
     }
   }
