@@ -6,17 +6,16 @@
     "slug": "thombruce",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 211,
-    "timeDay": 155,
-    "timeWeek": 150,
+    "timeDay": 132,
+    "timeWeek": 147,
     "timeMonth": 165,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-07-27": 14,
       "2025-07-16": 15
     }
   },
@@ -27,17 +26,16 @@
     "slug": "tnt",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 601,
-    "timeDay": 107,
+    "time": 599,
+    "timeDay": 111,
     "timeWeek": 121,
-    "timeMonth": 142,
-    "timeYear": 601,
+    "timeMonth": 141,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-07-27": 14,
       "2025-07-16": 15
     }
   }
