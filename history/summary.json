@@ -4,7 +4,7 @@
     "url": "https://www.thombruce.com",
     "icon": "https://www.thombruce.com/favicon.ico",
     "slug": "thombruce",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 238,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-09-25": 86,
       "2025-09-24": 2,
       "2025-08-31": 34,
@@ -43,6 +44,7 @@
     "timeMonth": 255,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-09-25": 86,
       "2025-09-24": 2,
       "2025-08-31": 34,
