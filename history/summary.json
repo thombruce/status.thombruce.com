@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 262,
-    "timeWeek": 697,
-    "timeMonth": 581,
-    "timeYear": 288,
-    "dailyMinutesDown": {
-      "2025-10-29": 18
-    }
+    "time": 272,
+    "timeDay": 619,
+    "timeWeek": 750,
+    "timeMonth": 591,
+    "timeYear": 290,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TNT",
@@ -31,12 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 78,
-    "timeWeek": 136,
-    "timeMonth": 181,
+    "timeDay": 90,
+    "timeWeek": 141,
+    "timeMonth": 179,
     "timeYear": 188,
-    "dailyMinutesDown": {
-      "2025-10-29": 18
-    }
+    "dailyMinutesDown": {}
   }
 ]
